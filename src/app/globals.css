@@ -9,32 +9,32 @@ html {
 }
 .main-background {
   background: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../../public/assets/main-background.png");
+    url("/assets/main-background.png");
   background-position: right;
   background-repeat: no-repeat;
 }
 
 .left-bg {
   background-position: center;
-  background-image: url("../../public/assets/left-background.png");
+  background-image: url("/assets/left-background.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .about-us-bg {
   background-position: center;
-  background: url("../../public/assets/about-us-background.png");
+  background: url("/assets/about-us-background.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .product-and-services-bg {
   background-position: center;
-  background: url("../../public/assets/product-and-services-background.png");
+  background: url("/assets/product-and-services-background.png");
   background-size: cover;
 }
 
 .connect-with-us-bg {
   background-position: center;
-  background: url("../../public/assets/connect-with-us-background.jpg");
+  background: url("/assets/connect-with-us-background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
